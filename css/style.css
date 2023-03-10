@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+} 
+
+.button {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(243, 198, 243);
+    color: darkcyan;
+    padding: 50px 100px 50px 100px;
+    margin: 100px;
+    text-decoration: none;
+}
+
+.button:hover{
+    background-color: yellow;
+    color: magenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button link{
+    color: aquamarine(13, 218, 166);
+}
+
+.button2 {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(178, 235, 141);
+    color: darkcyan;
+    padding: 50px 100px 50px 100px;
+    margin: 50px;
+    text-decoration: none;
+}
+
+.button2:hover{
+    background-color: yellow;
+    color: magenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button2 link{
+    color: aquamarine(13, 218, 166);
+}
+
+.button3 {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(171, 255, 244);
+    color: darkcyan;
+    padding: 50px 100px 50px 100px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+.button3:hover{
+    background-color: yellow;
+    color: magenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button3 link{
+    color: aquamarine(13, 218, 166);
+}
